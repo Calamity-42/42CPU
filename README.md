@@ -6,9 +6,9 @@
 </h3>
 
 ### Table of Contents
-- [Website for training and compete] (#website-for-training-and-compete)
-- [Major competitions] (#major-competitions)
-- [Ressources] (#ressources)
+- [Website for training and compete](#website-for-training-and-compete)
+- [Major competitions](#major-competitions)
+- [Ressources](#ressources)
 
 ### Website for training and compete
 
